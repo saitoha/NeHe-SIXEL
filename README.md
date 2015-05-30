@@ -39,7 +39,7 @@ $ ./configure && make install
 ```
 $ cd ..
 $ git clone https://github.com/saitoha/NeHe-SIXEL
-$ cd NeHe-SIXEL
+$ cd NeHe-SIXEL/lesson11
 $ ./configure
 $ make
 $ ./lesson11
