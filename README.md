@@ -37,7 +37,6 @@ $ ./configure && make install
 ## Step 3. Build a lesson
 
 ```
-$ cd ..
 $ git clone https://github.com/saitoha/NeHe-SIXEL
 $ cd NeHe-SIXEL/lesson11
 $ ./configure
